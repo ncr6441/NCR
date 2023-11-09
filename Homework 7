@@ -1,1 +1,80 @@
-
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "ayQT5HIQoYgk",
+        "outputId": "ca15848b-a8a3-4a34-e874-af734b975e0b"
+      },
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "10"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 1
+        }
+      ],
+      "source": [
+        "2*5"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "9m9NcgRIogQw"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "CfK78VRoE75G"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "11/01/23"
+      ],
+      "metadata": {
+        "id": "3ge7Ic6bogrn"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Repositiories are excellenct ways to share files and track changes in files, codes, and more. This is an essential aspect in research, collaboration. Repositories balnce the line between security and openness. Platforms like GitHUB seek to increase the reproducibility of research in the computational world which is growing to be an ever more pressing matter. They allow for trakcing of changes to show previous file history which helps demonstrate the evolution of a code and most importantly, offers a security measure ot ensure no tampering with the data. It provides ease of accessibility all across the world and allows for lightning communication. It keeps everyone accountable and engaged."
+      ],
+      "metadata": {
+        "id": "XqHXbWg0pLgl"
+      }
+    }
+  ]
+}
